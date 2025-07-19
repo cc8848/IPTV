@@ -566,7 +566,7 @@ https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
 https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:40  group-title="AKTV" aktv-group="taiwan2" tvg-id="taiwan2/tvb" tvg-logo="" provider="taiwan2" provider-logo="" provider-type="iptv",TVB 星河
 https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
-#EXTINF:41 aktv-group="TVBS" tvg-id="tvbs/tvbs" tvg-logo="" provider="TVBS" provider-logo="" provider-type="iptv",TVBS新聞
+#EXTINF:41 group-title="AKTV" aktv-group="TVBS" tvg-id="tvbs/tvbs" tvg-logo="" provider="TVBS" provider-logo="" provider-type="iptv",TVBS新聞
 https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 #EXTINF:42  group-title="AKTV" aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
 https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
